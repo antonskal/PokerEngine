@@ -1,0 +1,11 @@
+build/
+build-make/
+cmake-build-*/
+.vscode/
+.idea/
+*.o
+*.a
+*.so
+*.dylib
+.DS_Store
+.poker_session

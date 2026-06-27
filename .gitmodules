@@ -1,0 +1,4 @@
+[submodule "third_party/PokerHandEvaluator"]
+	path = third_party/PokerHandEvaluator
+	url = https://github.com/HenryRLee/PokerHandEvaluator.git
+	branch = develop
